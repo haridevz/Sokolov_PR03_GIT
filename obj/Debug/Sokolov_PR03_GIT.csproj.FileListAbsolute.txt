@@ -1,0 +1,10 @@
+D:\IS-23A\Sokolov\Sokolov_PR03_GIT\bin\Debug\Sokolov_PR03_GIT.exe.config
+D:\IS-23A\Sokolov\Sokolov_PR03_GIT\bin\Debug\Sokolov_PR03_GIT.exe
+D:\IS-23A\Sokolov\Sokolov_PR03_GIT\bin\Debug\Sokolov_PR03_GIT.pdb
+D:\IS-23A\Sokolov\Sokolov_PR03_GIT\obj\Debug\Sokolov_PR03_GIT.csproj.AssemblyReference.cache
+D:\IS-23A\Sokolov\Sokolov_PR03_GIT\obj\Debug\Sokolov_PR03_GIT.Form1.resources
+D:\IS-23A\Sokolov\Sokolov_PR03_GIT\obj\Debug\Sokolov_PR03_GIT.Properties.Resources.resources
+D:\IS-23A\Sokolov\Sokolov_PR03_GIT\obj\Debug\Sokolov_PR03_GIT.csproj.GenerateResource.cache
+D:\IS-23A\Sokolov\Sokolov_PR03_GIT\obj\Debug\Sokolov_PR03_GIT.csproj.CoreCompileInputs.cache
+D:\IS-23A\Sokolov\Sokolov_PR03_GIT\obj\Debug\Sokolov_PR03_GIT.exe
+D:\IS-23A\Sokolov\Sokolov_PR03_GIT\obj\Debug\Sokolov_PR03_GIT.pdb

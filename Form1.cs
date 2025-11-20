@@ -16,5 +16,10 @@ namespace Sokolov_PR03_GIT
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show($"Время и дата: {DateTime.Now}");
+        }
     }
 }
